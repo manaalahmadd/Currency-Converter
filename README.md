@@ -3,6 +3,7 @@
 A simple and interactive Currency Converter built using HTML, CSS, and JavaScript. This application uses the ExchangeRate API to fetch real-time exchange rates and provide accurate conversions.
 
 🚀 Features
+
 ✔️ Convert between multiple currencies
 ✔️ Real-time exchange rates using API
 ✔️ Simple and user-friendly interface
